@@ -1,0 +1,6 @@
+site_name: Project Dashboard
+site_url: http://localhost:8080/apps/dashboard/
+theme:
+  name: material
+nav:
+  - Home: index.md
