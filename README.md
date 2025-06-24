@@ -57,22 +57,24 @@ Each service is isolated but runs concurrently, accessible via their respective 
 - Internet connection (initial image pulls)  
 
 **To install MkDocs:**  
-``bash
+```bash
 pip install mkdocs
+```
 
 ## 📝 Future Work
-Add persistent data volumes for long-term storage
+-Add persistent data volumes for long-term storage
 
-Secure services with user authentication and HTTPS
+-Secure services with user authentication and HTTPS
 
-Integrate MkDocs with Gitea repositories for automated documentation builds
+-Integrate MkDocs with Gitea repositories for automated documentation builds
 
-Explore AI-enhanced search for files and code using OpenAI
+-Explore AI-enhanced search for files and code using OpenAI
+
+---
 
 ## 📂 Folder Structure
 arduino
-Copy
-Edit
+```bash
 project-root/
 ├── gitea/           # Gitea setup  
 │   ├── docker-compose.yml  
@@ -86,28 +88,19 @@ project-root/
 │   │   └── index.md  
 │   └── config.txt  
 └── README.md  
+```
+
 ## 🤝 Contributing
 Pull requests are welcome. For improvements, issues, or suggestions, please open an issue to discuss changes.
 
+---
+
 ## 📄 License
-This project is intended for educational, testing, and personal development use only.
-
-## 🙋‍♂️ About Me
-A G Sriee Arvinth Raajhen
-Independent Project Contributor
-Driven to simplify technical workflows with open-source tools and automation.
-
-yaml
-Copy
-Edit
+This project is intended for educational, internship, testing, and personal development use only.
 
 ---
 
-Would you like me to generate the complete project files and provide them in a `.zip` ready for GitHub upload?
-
-
-
-
-
-
-
+## 🙋‍♂️ About Me
+**A G Sriee Arvinth Raajhen**                                                                                                                                                  
+Intern at WinVinaya Foundation  
+Passionate about using automation and AI for good.
