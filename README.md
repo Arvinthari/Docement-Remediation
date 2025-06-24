@@ -57,9 +57,10 @@ Each service is isolated but runs concurrently, accessible via their respective 
 - Internet connection (initial image pulls)  
 
 **To install MkDocs:**  
-```bash
+``bash
 pip install mkdocs
-📝 Future Work
+
+## 📝 Future Work
 Add persistent data volumes for long-term storage
 
 Secure services with user authentication and HTTPS
@@ -68,7 +69,7 @@ Integrate MkDocs with Gitea repositories for automated documentation builds
 
 Explore AI-enhanced search for files and code using OpenAI
 
-📂 Folder Structure
+## 📂 Folder Structure
 arduino
 Copy
 Edit
@@ -85,14 +86,14 @@ project-root/
 │   │   └── index.md  
 │   └── config.txt  
 └── README.md  
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For improvements, issues, or suggestions, please open an issue to discuss changes.
 
-📄 License
+## 📄 License
 This project is intended for educational, testing, and personal development use only.
 
-🙋‍♂️ About Me
-Arvinth Hari
+## 🙋‍♂️ About Me
+A G Sriee Arvinth Raajhen
 Independent Project Contributor
 Driven to simplify technical workflows with open-source tools and automation.
 
