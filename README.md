@@ -102,5 +102,5 @@ This project is intended for educational, internship, testing, and personal deve
 
 ## 🙋‍♂️ About Me
 **A G Sriee Arvinth Raajhen**                                                                                                                                                  
-Intern at WinVinaya Foundation  
+Intern at WinVinaya Infosystems  
 Passionate about using automation and AI for good.
